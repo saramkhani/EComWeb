@@ -1,16 +1,20 @@
-### Ola Boisss Myself Sara Hackorr 9910
+🔭 I’m currently a student.
 
-<--
-**saramkhani/SaramKhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning AI and Machine Learning for my own interest.
 
-Here are some ideas to get you started:
+🤔 I'm intesested in both procedural languages(C, Bash, Python) and object oriented languages(C++, Java).
 
-- 🔭 I’m currently working on Web Dev
-- 🌱 I’m currently learning Java script
-- 👯 I’m looking to collaborate on Websites
-- 🤔 I’m looking for help with Coding 
-- 💬 Ask me about Coding
-- 📫 How to reach me:Kbi Aio hawali
-- 😄 Pronouns: Sa ra m
-- ⚡ Fun fact: I am Noob
--->
+⚡ My current ongoing projects are: Whatsapp Bot, Voice assistant and AI Chatbot.
+
+
+
+
+
+
+
+
+
+
+
+
+
